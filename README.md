@@ -1,4 +1,4 @@
-<h1 align="center">Hello World👋, I'm I'm Vineet Alok</h1>
+<h1 align="center">Hello World👋, I'm Vineet Alok</h1>
 <h3 align="center">Developer | Programmer | Tech Enthusiast</h3>
 
 - 🌱 I’m currently learning **Transformer Architecture , LLM**
