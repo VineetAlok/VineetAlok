@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Transformer Architecture , LLM**
 
-- 👨‍💻 All of my projects are available at [https://vineetalok.github.io/Portfolio-Vineet/](https://vineetalok.github.io/Portfolio-Vineet/)
+- 👨‍💻 All of my projects are available at [https://vineetalok.github.io/Portfolio-Vineet/](https://github.com/VineetAlok?tab=repositories)
 
 - 💬 Ask me about **Flutter,Django,JAVA,AIML**
 
